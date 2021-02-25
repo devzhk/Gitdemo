@@ -5,3 +5,4 @@ def cat():
 
 if __name__ == "__main__":
     cat()
+    print('Shorthair cat!')
