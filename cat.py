@@ -6,3 +6,4 @@ def cat():
 if __name__ == "__main__":
     cat()
     print('American cat!')
+    print('Shorthair cat!')
